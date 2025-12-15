@@ -1,4 +1,4 @@
-module example.com/gin-handson
+module mitton/gin-handson
 
 go 1.25.5
 
